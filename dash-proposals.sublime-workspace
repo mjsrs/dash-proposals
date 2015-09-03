@@ -1,0 +1,1726 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"maste",
+				"masternodecount"
+			],
+			[
+				"dash",
+				"dashproposals"
+			],
+			[
+				"pro",
+				"proposals"
+			],
+			[
+				"ch",
+				"check_output"
+			],
+			[
+				"def",
+				"default_cmd"
+			],
+			[
+				"odys",
+				"odyssey_port_mode"
+			],
+			[
+				"ody",
+				"odyssey_port_mode"
+			],
+			[
+				"srv_",
+				"srv_connector"
+			],
+			[
+				"srv",
+				"srv_connector"
+			],
+			[
+				"l",
+				"length-1"
+			],
+			[
+				"end",
+				"end_line"
+			],
+			[
+				"check",
+				"checksum"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"F",
+				"FLASHVARS"
+			],
+			[
+				"error",
+				"errorhandler"
+			],
+			[
+				"re",
+				"readyState"
+			],
+			[
+				"writ",
+				"writeFileEntry"
+			],
+			[
+				"wr",
+				"writeFileEntry"
+			],
+			[
+				"autom",
+				"automation_speed"
+			],
+			[
+				"selec",
+				"selected_automation_mode"
+			],
+			[
+				"ODY_SER_",
+				"ODY_SER_PAR_MASK"
+			],
+			[
+				"autom_",
+				"autom_speeds"
+			],
+			[
+				"sele",
+				"selected_automation_speed"
+			],
+			[
+				"get",
+				"getSelectedProtocol"
+			],
+			[
+				"prot",
+				"protocols_map"
+			],
+			[
+				"rea",
+				"read2ByteNum"
+			],
+			[
+				"aut",
+				"automation_speed"
+			],
+			[
+				"getSele",
+				"getSelectedAutomationSpeed"
+			],
+			[
+				"getSe",
+				"getSelectedAutomationSpeed"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"sr",
+				"srv_globals"
+			],
+			[
+				"ODY_SER_B",
+				"ODY_SER_BAUD_4800"
+			],
+			[
+				"PRO",
+				"PROT_MODBUS_ASCII"
+			],
+			[
+				"me",
+				"me"
+			],
+			[
+				"PROT",
+				"PROT_ODYSSEY"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"ver",
+				"version_string"
+			],
+			[
+				"buil",
+				"build_nr"
+			],
+			[
+				"m",
+				"minor_version"
+			],
+			[
+				"v_",
+				"version_nr"
+			],
+			[
+				"HW",
+				"HWT_JUNONET"
+			],
+			[
+				"srv_F",
+				"srv_FWVarsFlash"
+			],
+			[
+				"proto",
+				"protocols_map"
+			],
+			[
+				"pan",
+				"panel_type"
+			],
+			[
+				"in",
+				"installer_protocol_mask"
+			],
+			[
+				"build_",
+				"build_type"
+			],
+			[
+				"flash",
+				"flashvars_fn"
+			],
+			[
+				"trans",
+				"translations_fn"
+			],
+			[
+				"st",
+				"startTime"
+			],
+			[
+				"parse",
+				"parseDataToDec"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"convert",
+				"convertArray4BytesToDec"
+			],
+			[
+				"conver",
+				"convertDecToArray4Bytes"
+			],
+			[
+				"SPI",
+				"SPI_FLASH"
+			],
+			[
+				"SPI_",
+				"SPI_FLASH_SIZE"
+			],
+			[
+				"force",
+				"forceUI"
+			],
+			[
+				"reF",
+				"reFirmware"
+			],
+			[
+				"e",
+				"lastError"
+			],
+			[
+				"on",
+				"onDeviceAdded"
+			],
+			[
+				"tab",
+				"tab_general"
+			],
+			[
+				"a",
+				"availHeight"
+			],
+			[
+				"tab_firm",
+				"head_tab_firmware"
+			],
+			[
+				"tabs-",
+				"tabs-general"
+			],
+			[
+				"tab_",
+				"tab_general"
+			],
+			[
+				"getT",
+				"getTabFirmware"
+			],
+			[
+				"progr",
+				"progress_cancel"
+			],
+			[
+				"sent",
+				"sentbytes"
+			],
+			[
+				"sen",
+				"sentbytes"
+			],
+			[
+				"setPro",
+				"setProgressPercent"
+			],
+			[
+				"progress",
+				"progress_msg"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"Rx",
+				"RxData"
+			],
+			[
+				"RxDa",
+				"RxDataLen"
+			],
+			[
+				"han",
+				"handleNoResponse"
+			],
+			[
+				"o",
+				"onDeviceAdded"
+			],
+			[
+				"receive",
+				"receiveData"
+			],
+			[
+				"RxD",
+				"RxDataLen"
+			],
+			[
+				"de",
+				"detected_device"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"data",
+				"data_cp"
+			],
+			[
+				"spi",
+				"spi_sectors"
+			],
+			[
+				"rece",
+				"receive"
+			],
+			[
+				"ha",
+				"handleNoResponse"
+			],
+			[
+				"receie",
+				"receiveData"
+			],
+			[
+				"txpacket",
+				"txpacket"
+			],
+			[
+				"Han",
+				"handleResponse"
+			],
+			[
+				"cm",
+				"cmdsBuffer"
+			],
+			[
+				"spi_",
+				"spi_start_address"
+			],
+			[
+				"c",
+				"convertAsciiToHex"
+			],
+			[
+				"send",
+				"sendCommand"
+			],
+			[
+				"i",
+				"isIntelHex"
+			],
+			[
+				"detet",
+				"detected_device"
+			],
+			[
+				"Rxd",
+				"RxDataLen"
+			],
+			[
+				"RxData",
+				"RxDataLength"
+			],
+			[
+				"ERAS",
+				"ERASE_SPI_FLASH"
+			],
+			[
+				"mess",
+				"message_translated"
+			],
+			[
+				"ini",
+				"initialization"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"opto",
+				"optgroup	Tag"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"templa",
+				"templateSpec"
+			],
+			[
+				"disc",
+				"disconnectDevice"
+			],
+			[
+				"dis",
+				"disconnectDevice"
+			],
+			[
+				"btn",
+				"btn_clear_debug_window"
+			],
+			[
+				"txpac",
+				"txpacket"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"detected",
+				"detected_device"
+			],
+			[
+				"detec",
+				"detected_device"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"onDevi",
+				"onDevicesEnumerated"
+			],
+			[
+				"OnDevic",
+				"onDeviceRemoved"
+			],
+			[
+				"Ondevi",
+				"onDeviceAdded"
+			],
+			[
+				"ca",
+				"calculateCRC"
+			],
+			[
+				"bec",
+				"benchStatus"
+			],
+			[
+				"sub",
+				"suboperation"
+			],
+			[
+				"bench",
+				"benchStatus"
+			],
+			[
+				"benc",
+				"benchform"
+			],
+			[
+				"valu",
+				"valueField"
+			],
+			[
+				"resume",
+				"resumeEvents"
+			],
+			[
+				"store",
+				"storeId"
+			],
+			[
+				"opera",
+				"operations_stores"
+			],
+			[
+				"final",
+				"final_product"
+			],
+			[
+				"djan",
+				"django_modules"
+			],
+			[
+				"fpsm",
+				"fpsm_objs"
+			],
+			[
+				"fpsm_",
+				"fpsm_row"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wallet/sync.py",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wallet/init/config.ini",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "firebase/app/index.html",
+			"settings":
+			{
+				"buffer_size": 3732,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "firebase/app/styles/jumbotron-narrow.css",
+			"settings":
+			{
+				"buffer_size": 1410,
+				"line_ending": "Unix",
+				"name": "/* Space out content a bit */"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"djan",
+				"Django DocsSearch"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Object Value JS"
+			],
+			[
+				"package",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles.css",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles/main.scss",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvfile.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/bower_components/angular/angular.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-firmware.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/manifest.json",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvbootloader.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-general.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvdevice.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/controllers/ctrlconnector.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/index.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/workers/parser_worker.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/m_custmr.h",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvconnector.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvgeneral.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/controllers/ctrlGeneral.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/index.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/ImageUtil.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/globals.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/main.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/index.html",
+		"/Users/ManuelJoao/Downloads/m_custmr.h",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/about.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/Gruntfile.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/bower.json",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-security.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/.jshintrc",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/styles/main.css",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-sounders.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-relays.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/bower_components/bootstrap/dist/css/bootstrap.min.css",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/bower_components/angular-bootstrap/ui-bootstrap-csp.css",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/chromereload.js",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/_locales/en/messages.json",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/dist/manifest.json",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/dist/index.html",
+		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/test/spec/test.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/manifest.json",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/ui.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/test.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/file.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/device.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/bootloader.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/gfe.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/gfe.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/tabs-general.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/main.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/css/style.css",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/tabs-sounders.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/tabs-relays.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/m_custmr.h",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/_locales/en/messages.json",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/table-sounders.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/table-relays.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/assets/js/utils.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-board/firebase/index.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/gfe.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/roboto.css",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/icon.css",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/gfe-hid.js",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/_locales/es/messages.json",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/gfe-hid.html",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/_locale/en/messages.json",
+		"/Users/ManuelJoao/Documents/workspace/chrome/gfe-connector/_locale/es/messages.json",
+		"/Users/ManuelJoao/Documents/workspace/chrome/hid/materialicons.css",
+		"/Users/ManuelJoao/Documents/workspace/chrome/hid/roboto.css",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/JobFinalProductsForm.js",
+		"/Volumes/home/gfe/gfe/rest.py",
+		"/Volumes/home/gfe/gfe/urls.py",
+		"/Volumes/home/gfe/production/urls.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/AppmodelTabController.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/BenchForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/FirmwareForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/stocks/Final_productForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/stocks/ComponentForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/production/JobModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/production/BenchReportModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/store/main/GFEStore.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/TesterForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/production/ProtocolModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/production/BenchModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/store/Readme.md",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/curl_test.txt",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/JobForm.js",
+		"/Volumes/home/gfe/stocks/models.py",
+		"/Volumes/home/gfe/production/views.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/columns.js",
+		"/Volumes/home/gfe/production/rest.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/ModuleForm.js",
+		"/Volumes/home/gfe/gfe/scripts.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/JobRecordsForm.js",
+		"/Volumes/home/gfe/production/models.py",
+		"/Volumes/home/gfe/production/admin.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/OpenOrderItems.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/sales/OpenOrderItemsModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/store/sales/OpenOrderItemsStore.js",
+		"/Volumes/data/twitter/tweet.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/util/GFEForm.js",
+		"/Volumes/home/gfe/stocks/rest.py",
+		"/Volumes/home/gfe/sales/models.py",
+		"/Volumes/home/gfe/system/management/commands/sync.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/production/JobFinalProductsModel.js",
+		"/Volumes/home/gfe/system/models.py",
+		"/Volumes/home/gfe/sales/views.py",
+		"/Volumes/home/gfe/sales/templates/printOrder.html",
+		"/Volumes/home/gfe/system/tasks.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/sales/TreeOrderItemsModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/model/sales/OrderItemsModel.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/orderlist.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/columns.js",
+		"/Volumes/home/gfe/sales/rest.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/GFEgrid.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/sass/gfe.scss",
+		"/Volumes/home/gfe/sales/admin.py",
+		"/Volumes/home/gfe/sales/urls.py",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/stocks/columns.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/OrderForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientTemplateForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientTemplateFieldsForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/User.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/auth/UserForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/RepairItemsForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/RepairFormDetails.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/RepairForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/ProtocolForm.js",
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/modulelist.js"
+	],
+	"find":
+	{
+		"height": 61.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app,/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app",
+			"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app",
+			"C:\\workspace-mobile\\SenchaUI23\\app",
+			"C:\\workspace-mobile\\SenchaUI23\\touch\\resources\\themes\\stylesheets\\sencha-touch\\gfe",
+			"C:\\workspace-mobile\\SenchaUI\\app",
+			"C:\\workspace-mobile\\SenchaUI",
+			"C:\\workspace-mobile\\SenchaUI\\app",
+			"C:\\workspace-mobile\\SenchaUI",
+			"C:\\workspace-mobile\\SenchaUI\\app",
+			"C:\\workspace-mobile\\SenchaUI",
+			"\\\\192.168.1.67\\mjsrs\\dj-project\\gfe\\media\\",
+			"\\\\192.168.1.67\\mjsrs\\dj-project\\gfe\\",
+			"\\\\192.168.1.67\\mjsrs\\dj-project\\gfe\\media\\gfe"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getmininginfo",
+			"DIR",
+			"dir",
+			"DIR",
+			"dashstats",
+			"dashstats_auth",
+			"setAutomationSpeed",
+			"version_string",
+			"2",
+			"waitForIO",
+			"toast",
+			"toastr",
+			"srv_FWVarsFlash",
+			"animate",
+			"0",
+			"mask",
+			"settimeout",
+			"modal",
+			"srv_connector",
+			"newFile",
+			"parseFile",
+			"setTabVisible",
+			"seta",
+			"settab",
+			"openfile",
+			"read",
+			"called",
+			"opt_blob",
+			"getDataSize",
+			"setAutomationSpeed",
+			"automation_protocol",
+			"getSelectedProtocol",
+			"selected_protocol",
+			"getImageVersion",
+			"selected_protocol",
+			"delay exte",
+			"speeds",
+			"selected_automation_speed",
+			"speed",
+			"getSelectedAutomationProtocolText",
+			"text",
+			"protocols",
+			"automationProtocols",
+			"automation_protocols",
+			"ap",
+			"getSelectedAutomationSpeed",
+			"foreach",
+			"index",
+			"build_nr",
+			"selected_protocol",
+			"version_nr",
+			"vr_globals",
+			"general",
+			"device",
+			"selected_protocol",
+			"item",
+			"device",
+			"force",
+			"languages",
+			"panel_type",
+			"panel_ty",
+			"read2ByteNum",
+			"panel_type",
+			"installer",
+			"hwt_",
+			"bt_",
+			"model",
+			"pos",
+			"new Uint8Array(4)",
+			"new Uint8Array(2)",
+			"new Uint8Array(1)",
+			"null",
+			"getNextHexRecord",
+			"CONFIG_DATA_START_ADD",
+			"company",
+			"unsigned char ",
+			"array",
+			"SNDR_MAIN_CONV_BITS_POS",
+			"CONFIG_DATA_START_ADD",
+			"FLASHVARS",
+			"data",
+			"line",
+			"uint",
+			"start",
+			"end",
+			"srv",
+			"srv_file",
+			"srv_",
+			"me",
+			"timeout",
+			"parsing file",
+			"setmask",
+			"defer",
+			"mask",
+			"setmask",
+			"$q",
+			"len",
+			"me.SPI_FLASH.data",
+			"data",
+			"obj",
+			"data_index",
+			"data_to_write",
+			"start",
+			"DATA",
+			".DATA",
+			".START",
+			".END",
+			".START",
+			".DATA",
+			"DATA",
+			"data",
+			"END",
+			"START",
+			"DATA",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"me.FIRMWARE"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"srv_globals.read2ByteNum",
+			"Model",
+			"obj.flashvars.",
+			".start",
+			".end",
+			".start",
+			".data",
+			"data",
+			"end",
+			"start",
+			"data",
+			"me.SPI_FLASH.FIRMWARE",
+			"srv_file.SPI_FLASH.TRANSLATIONS",
+			"srv_file.SPI_FLASH.LOG",
+			"srv_file.SPI_FLASH.CUSTOMER_FLASH",
+			"srv_file.FIRMWARE",
+			"srv_file.SPI_FLASH.FLASHVARS",
+			"srv_file.SPI_FLASH.TRANSLATIONS",
+			"srv_file.SPI_FLASH.FLASHVARS",
+			"srv_file.FIRMWARE",
+			"me.SPI_FLASH.TRANSLATIONS",
+			"me.SPI_FLASH.FLASHVARS",
+			"me.FIRMWARE",
+			"Fire",
+			"<td width=\"150px\">",
+			"width=\"120px\"",
+			"data-width=\"150px\" data-size=\"15\"",
+			"\"count>5\"",
+			"relay",
+			"\"count>6\"",
+			"data-width=\"150px\"",
+			"data-width=\"170px\"",
+			"data-width=\"160px\"",
+			"data-width=\"150px\"",
+			"data-width=\"140px\"",
+			"data-width=\"120px\" data-selected-text-format=\"count>4\"",
+			"data-width=\"120px\"",
+			"data-width=\"150px\"",
+			"data-width=\"100px\"",
+			"data-width=\"50px\"",
+			"data-width=\"10px\"",
+			"style=\"width:50px\"",
+			"style=\"width:10px\"",
+			"style=\"width:30px\"",
+			"class=\"form-control selectpicker\" width=\"30px\"",
+			"multiple title=\"None\"",
+			"zones-",
+			"assets/fonts/roboto/Roboto",
+			"Roboto-Medium.ttf",
+			"url('roboto/Roboto-Light.ttf') format('truetype');",
+			"format('truetype')",
+			"src: url('roboto/Roboto-Light.ttf') format('ttf');",
+			"src: url('roboto/Roboto-Light.ttf') format('woff2');",
+			"'../roboto.woff2'",
+			"url",
+			"data:roboto.woff2",
+			"roboto.woff2",
+			"sortable:false,",
+			"/images/elotec/",
+			" \"ialarm_wdetector\":0, \"order\":",
+			"\"hidden\":true",
+			", \"leaf\":true, \"hidden\":false",
+			", \"leaf\":true, \"hidden\":false ",
+			"debug1",
+			"\"",
+			" 'hasdetector':false, 'hassounder':false, 'hasbeacon':false, 'leaf':true ",
+			" 'hasdetector':false, 'hassounder':true, 'hasbeacon':false, 'leaf':true ",
+			" 'hasdetector':false, 'hassounder':false, 'hasbeacon':false, 'leaf':true ",
+			"'hassounder':true,",
+			" 'hasdetector':false, 'hassounder':false, 'hasbeacon':false, 'leaf':true ",
+			" 'hasdetector':true, 'hassounder':false, 'hasbeacon':false, 'leaf':true ",
+			" 'hasdetector':false, 'hassounder':true, 'hasbeacon':false, 'leaf':true ",
+			" 'hasdetector':true, 'hassounder':true, 'hasbeacon':false, 'leaf':true ",
+			"'hasdetector':true, 'hassounder':true, 'hasbeacon':false, 'leaf':true ",
+			"lcsysresialarm",
+			"lcsysresiquiescent",
+			" 'pwm':false, 'leaf':",
+			"'pwm':false, 'leaf':",
+			"'pwm':false, 'leaf'",
+			"url",
+			"//\"children\":[]",
+			"\"",
+			"",
+			"'family'",
+			"'type':0,",
+			"\"",
+			"\"Num\":",
+			"\"Sort\":",
+			"\"Sort\"",
+			"ext_js_version",
+			"{% EXT_JS_VERSION %}",
+			"{\"model__in\": CHOICES}",
+			"limit_choices_to",
+			" ",
+			"obj",
+			"deleted",
+			"{{count}}",
+			"{{id}}",
+			"orders",
+			",",
+			"&#59;",
+			"&#58;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wallet/sync.py",
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1711,
+								1711
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 383.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wallet/init/config.ini",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "firebase/app/index.html",
+					"settings":
+					{
+						"buffer_size": 3732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1534,
+								1534
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 582.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "firebase/app/styles/jumbotron-narrow.css",
+					"settings":
+					{
+						"buffer_size": 1410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1062,
+								1062
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "/* Space out content a bit */",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 706.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 291.0
+	},
+	"output.find_results":
+	{
+		"height": 328.0
+	},
+	"output.git":
+	{
+		"height": 128.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 128.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vie",
+				"production/views.py"
+			],
+			[
+				"sett",
+				"settings.py"
+			],
+			[
+				"se",
+				"settings.py"
+			],
+			[
+				"production/m",
+				"production/models.py"
+			],
+			[
+				"setting",
+				"settings.py"
+			],
+			[
+				"settin",
+				"settings.py"
+			],
+			[
+				"tas",
+				"system/tasks.py"
+			],
+			[
+				"notification/vi",
+				"notification/views.py"
+			],
+			[
+				"manage",
+				"manage.py"
+			],
+			[
+				"tasks",
+				"system/tasks.py"
+			],
+			[
+				"notice.ml",
+				"notification/templates/notification/notice.html"
+			],
+			[
+				"notification/mo",
+				"notification/models.py"
+			],
+			[
+				"notice",
+				"notification/templates/notification/notice.html"
+			],
+			[
+				"notice.html",
+				"notification/templates/notification/notice.html"
+			],
+			[
+				"system/",
+				"system/views.py"
+			],
+			[
+				"system/vi",
+				"system/views.py"
+			],
+			[
+				"comple",
+				"templates/admin/complex.html"
+			],
+			[
+				"order",
+				"media/gfe/sales/order.js"
+			],
+			[
+				"main",
+				"media/gfe/main.css"
+			],
+			[
+				"add",
+				"media/gfe/add_to_center.js"
+			],
+			[
+				"",
+				"templates/admin/complex.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 327.0,
+	"status_bar_visible": true
+}

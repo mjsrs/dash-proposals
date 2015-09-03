@@ -53,7 +53,7 @@ def main():
     print "Proposals"
     for i in proposals:
         print proposals[i]
-        proposals[i]["timestamps"] = {".sv": "timestamp"}
+        proposals[i]["timestamp"] = {".sv": "timestamp"}
 
     dashproposals.put("", "proposals", proposals)
 
