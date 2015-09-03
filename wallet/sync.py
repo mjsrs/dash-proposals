@@ -5,7 +5,7 @@ import datetime
 import requests
 import config
 
-CONFIG_FILE_PATH = "/root/data/dash-proposals/docker/config.ini"
+CONFIG_FILE_PATH = "/root/data/dash-proposals/wallet/config.ini"
 DATA_PATH = "/root/data"
 CONF_PATH = "/root/data/dash.conf"
 
@@ -21,7 +21,6 @@ def main():
         message = "Error parsing config file"
         raise Exception(message)
 
-    print appconfig
     required_config_keys = ['firebase']
     for key in required_config_keys:
         if key not in appconfig:
@@ -44,17 +43,19 @@ def main():
     cmd = default_cmd + ["masternode", "count"]
     masternodecount = subprocess.check_output(cmd)
     print "masternodecount: %s" % masternodecount
-
-    #update firebase values
-    hashrate = round(float(getmininginfo["networkhashps"])/1000000000, 2)
+    dashproposals.put("", "masternodes", masternodecount)
 
     #proposals
-    cmd = default_cmd + ["mnbuget", "show"]
+    cmd = default_cmd + ["mnbudget", "show"]
     proposals = subprocess.check_output(cmd)
-    print "Proposals"
-    print proposals
+    proposals = json.loads(proposals)
 
-    dashproposals.post("proposals", proposals)
+    print "Proposals"
+    for i in proposals:
+        print proposals[i]
+        proposals[i]["timestamps"] = {".sv": "timestamp"}
+
+    dashproposals.put("", "proposals", proposals)
 
 if __name__ == "__main__":
     main()
