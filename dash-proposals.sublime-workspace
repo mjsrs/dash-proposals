@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
 				"maste",
 				"masternodecount"
 			],
@@ -506,14 +514,6 @@
 			[
 				"djan",
 				"django_modules"
-			],
-			[
-				"fpsm",
-				"fpsm_objs"
-			],
-			[
-				"fpsm_",
-				"fpsm_row"
 			]
 		]
 	},
@@ -539,41 +539,17 @@
 			"file": "firebase/app/index.html",
 			"settings":
 			{
-				"buffer_size": 3633,
+				"buffer_size": 4058,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "firebase/app/styles/jumbotron-narrow.css",
+			"file": "firebase/app/styles/jumbotron-narrow.scss",
 			"settings":
 			{
-				"buffer_size": 1410,
+				"buffer_size": 1701,
 				"line_ending": "Unix",
 				"name": "/* Space out content a bit */"
-			}
-		},
-		{
-			"file": "firebase/app/scripts/controllers/main.js",
-			"settings":
-			{
-				"buffer_size": 1196,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "firebase/app/scripts/controllers/chat.js",
-			"settings":
-			{
-				"buffer_size": 940,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "firebase/app/scripts/angularfire/firebase.ref.js",
-			"settings":
-			{
-				"buffer_size": 195,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -585,10 +561,26 @@
 			}
 		},
 		{
-			"file": "firebase/bower.json",
+			"file": "firebase/app/styles/styles.scss",
 			"settings":
 			{
-				"buffer_size": 510,
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "firebase/app/scripts/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "firebase/test/spec/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 611,
 				"line_ending": "Unix"
 			}
 		}
@@ -709,12 +701,23 @@
 	},
 	"file_history":
 	[
-		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/views/chat.html",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/directives/ngHideAuth.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/angularfire/firebase.ref.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/controllers/account.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/controllers/login.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/controllers/chat.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/Gruntfile.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles/main.scss",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles/_main.css",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/package.json",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/firebase.json",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/bower.json",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/controllers/main.js",
 		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/scripts/app.js",
+		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/views/chat.html",
 		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/views/account.html",
 		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/views/main.html",
 		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles.css",
-		"/Users/ManuelJoao/Documents/workspace/dash-proposals/firebase/app/styles/main.scss",
 		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/scripts/services/srvfile.js",
 		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/bower_components/angular/angular.js",
 		"/Users/ManuelJoao/Documents/workspace/gfe-connector-chrome/app/views/tabs-firmware.html",
@@ -825,18 +828,7 @@
 		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/orderlist.js",
 		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/columns.js",
 		"/Volumes/home/gfe/sales/rest.py",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/GFEgrid.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/sass/gfe.scss",
-		"/Volumes/home/gfe/sales/admin.py",
-		"/Volumes/home/gfe/sales/urls.py",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/stocks/columns.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/OrderForm.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientTemplateForm.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientTemplateFieldsForm.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/sales/ClientForm.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/User.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/auth/UserForm.js",
-		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/production/RepairItemsForm.js"
+		"/Volumes/home/gfe/static/extjs/gfe-workspace/gfe/app/view/main/GFEgrid.js"
 	],
 	"find":
 	{
@@ -867,6 +859,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"p",
+			"P",
+			"p",
+			"karma",
+			"proposals",
+			"a",
+			"h1",
 			"messages",
 			"getmininginfo",
 			"DIR",
@@ -987,14 +986,7 @@
 			"data",
 			"Data",
 			"data",
-			"Data",
-			"data",
-			"Data",
-			"data",
-			"Data",
-			"data",
-			"Data",
-			"data"
+			"Data"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1362,15 +1354,15 @@
 					"file": "firebase/app/index.html",
 					"settings":
 					{
-						"buffer_size": 3633,
+						"buffer_size": 4058,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								799,
-								799
+								1384,
+								1384
 							]
 						],
 						"settings":
@@ -1469,29 +1461,29 @@
 							"sublimelinter_wrap_find": true,
 							"synced": false,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 253.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "firebase/app/styles/jumbotron-narrow.css",
+					"file": "firebase/app/styles/jumbotron-narrow.scss",
 					"settings":
 					{
-						"buffer_size": 1410,
+						"buffer_size": 1701,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1062,
-								1062
+								1107,
+								1107
 							]
 						],
 						"settings":
@@ -1566,6 +1558,7 @@
 							[
 							],
 							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
 							"sublimelinter": "load-save",
 							"sublimelinter_delay": 2.0,
 							"sublimelinter_disable":
@@ -1588,377 +1581,19 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
+							"synced": false,
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 706.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "firebase/app/scripts/controllers/main.js",
-					"settings":
-					{
-						"buffer_size": 1196,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								798,
-								798
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"incomplete_sync": null,
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"devel": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"remote_loading": false,
-							"sublimelinter": "load-save",
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 368.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "firebase/app/scripts/controllers/chat.js",
-					"settings":
-					{
-						"buffer_size": 940,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								939,
-								174
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"incomplete_sync": null,
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"devel": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"remote_loading": false,
-							"sublimelinter": "load-save",
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "firebase/app/scripts/angularfire/firebase.ref.js",
-					"settings":
-					{
-						"buffer_size": 195,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"incomplete_sync": null,
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"devel": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"remote_loading": false,
-							"sublimelinter": "load-save",
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
 					"file": "firebase/app/scripts/angularfire/config.js",
 					"settings":
 					{
@@ -2077,19 +1712,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 8,
-					"file": "firebase/bower.json",
+					"buffer": 5,
+					"file": "firebase/app/styles/styles.scss",
 					"settings":
 					{
-						"buffer_size": 510,
+						"buffer_size": 719,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								31,
+								32
 							]
 						],
 						"settings":
@@ -2187,7 +1822,249 @@
 							},
 							"sublimelinter_wrap_find": true,
 							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "firebase/app/scripts/controllers/main.js",
+					"settings":
+					{
+						"buffer_size": 651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								521,
+								521
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "firebase/test/spec/controllers/main.js",
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -2233,7 +2110,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 291.0
+		"height": 124.0
 	},
 	"output.find_results":
 	{
@@ -2359,7 +2236,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 327.0,
 	"status_bar_visible": true
 }
