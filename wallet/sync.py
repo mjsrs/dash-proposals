@@ -51,7 +51,15 @@ def main():
     proposals = json.loads(proposals)
 
     print "Proposals"
+    urls_prefix = ["", "https://", "http://"]
     for i in proposals:
+        for u in urls_prefix:
+            try:
+                requests.get("%s%s" % (u, proposals[i]["URL"]), verify=False)
+                proposals[i]["fixed_URL"] = "%s%s" % (u, proposals[i]["URL"])
+                break
+            except:
+                pass
         print proposals[i]
         proposals[i]["timestamp"] = {".sv": "timestamp"}
 

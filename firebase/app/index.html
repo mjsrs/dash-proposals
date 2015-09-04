@@ -25,15 +25,14 @@
     <!-- Add your site or application content here -->
     <div class="container" ng-controller="data">
       <div class="header clearfix">
-        <h3 class="text-muted">Dash Proposals</h3>
-        <p class="text-right">{{masternodes.$value}} masternodes</p>
+        <div style="float:left"><h3 class="text-muted">Dash Proposals</h3></div>
+        <div class="text-right" style="float:right">{{masternodes.$value}} masternodes</div>
 
       </div>
 
       <div class="jumbotron" ng-repeat="p in proposals">
-        <h1><a href="{{p.URL}}" target="_blank">{{p.$id}}</a><a style="font-size:0.4em;padding-left:10px;color:grey" href="https://dash-proposals.firebaseio.com/proposals/{{p.$id}}.json" target="_blank">json</a></h1>
-        <p>Yeas: {{p.Yeas}}</p>
-        <p>Nays: {{p.Nays}}</p>
+        <h1><a href="{{p.fixed_url}}" target="_blank">{{p.$id}}</a><a style="font-size:0.4em;padding-left:10px;color:grey" href="https://dash-proposals.firebaseio.com/proposals/{{p.$id}}.json" target="_blank">json</a></h1>
+        <p><label>Yeas: {{p.Yeas}}</label><label style="padding-left:30px">Nays: {{p.Nays}}</label><label style="padding-left:30px">Abstains: {{p.Abstains}}</label></p>
         <p style="font-size:1.2em">{{p.MonthlyPayment}} DASH/month x{{p.TotalPaymentCount}}&nbsp;&nbsp;(remaining payments:{{p.RemainingPaymentCount}})</p>
       </div>
 
