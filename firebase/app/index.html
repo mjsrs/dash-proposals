@@ -2,22 +2,22 @@
 <html class="no-js">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Dash Proposals</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+    <link rel='stylesheet' href='bower_components/bootstrap/dist/css/bootstrap.css' />
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/styles.css">
     <link rel="stylesheet" href="styles/jumbotron-narrow.css">
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
     <!-- endbuild -->
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
   </head>
-  <body ng-app="firebaseApp">
+  <body ng-app="firebaseApp" ng-cloak>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
@@ -26,12 +26,15 @@
     <div class="container" ng-controller="data">
       <div class="header clearfix">
         <h3 class="text-muted">Dash Proposals</h3>
+        <p class="text-right">{{masternodes.$value}} masternodes</p>
+
       </div>
 
       <div class="jumbotron" ng-repeat="p in proposals">
-        <h2>{{p.$id}}</h2>
+        <h1><a href="{{p.URL}}" target="_blank">{{p.$id}}</a><a style="font-size:0.4em;padding-left:10px;color:grey" href="https://dash-proposals.firebaseio.com/proposals/{{p.$id}}.json" target="_blank">json</a></h1>
         <p>Yeas: {{p.Yeas}}</p>
         <p>Nays: {{p.Nays}}</p>
+        <p style="font-size:1.2em">{{p.MonthlyPayment}} DASH/month x{{p.TotalPaymentCount}}&nbsp;&nbsp;(remaining payments:{{p.RemainingPaymentCount}})</p>
       </div>
 
     </div> <!-- /container -->

@@ -1,11 +1,4 @@
-    html {
-      position: relative;
-      min-height: 100%;
-    }
-    body {
-        padding-top:20px;
-        font-family: 'Roboto', sans-serif;
-    }
+
     .footer {
       position: absolute;
       bottom: 0;
@@ -19,14 +12,6 @@
     }
     h1{
       color: #1e73be;
-    }
-    .jumbotron h1{
-      color: #1e73be;
-    }
-    .jumbotron {
-      padding-left: 30px;
-      margin-bottom: 20px;
-      border-radius: 15px !important;
     }
     .col-md-4{
       padding-left: 10px;
@@ -49,3 +34,6 @@
       top:50%;
       margin:-75px 0 0 -135px;
     }
+    [ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
