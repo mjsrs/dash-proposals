@@ -24,4 +24,13 @@ angular.module('firebaseApp')
     $scope.proposals.$loaded().catch(alert);
     //$scope.masternodes.$loaded().catch(alert);
 
+    /*$scope.open = function (hash) {
+      $modal.open({
+        animation: $scope.animationsEnabled,
+        templateUrl: 'voteModal.html',
+        hash: hash
+      });
+    };*/
+
+
   });

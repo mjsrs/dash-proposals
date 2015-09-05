@@ -34,10 +34,24 @@
         <h1><a href="{{p.fixed_URL}}" target="_blank">{{p.$id}}</a><a style="font-size:0.4em;padding-left:10px;color:grey" href="https://dash-proposals.firebaseio.com/proposals/{{p.$id}}.json" target="_blank">json</a></h1>
         <p><label>Yeas: {{p.Yeas}}</label><label style="padding-left:30px">Nays: {{p.Nays}}</label><label style="padding-left:30px">Abstains: {{p.Abstains}}</label></p>
         <p style="font-size:1.2em">{{p.MonthlyPayment}} DASH/month x{{p.TotalPaymentCount}}&nbsp;&nbsp;(remaining payments:{{p.RemainingPaymentCount}})</p>
+        <a href="" style="font-size:1em;padding-left:10px;color:grey" data-toggle="modal" data-target="#voteModal" data-hash="{{p.Hash}}" data-proposal="{{p.$id}}">Vote</a>
       </div>
 
     </div> <!-- /container -->
-
+<div class="modal fade" id="voteModal" tabindex="-1" role="dialog" aria-labelledby="voteModalLabel">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h1 class="modal-title" id="title"></h1>
+      </div>
+      <div class="modal-body">
+        <p>mnbudget vote <label class="hash"></label> YES|NO|ABSTAIN</p>
+        <p>prefix the command with ./dash-cli to vote from the command line</p>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- GA -->
     <script>
@@ -50,6 +64,7 @@
       ga('send', 'pageview');
 
     </script>
+
 
     <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
@@ -81,5 +96,17 @@
         <script src="scripts/directives/ngHideAuth.js"></script>
         <script src="scripts/routes.js"></script>
         <!-- endbuild -->
+
+    <script type="text/javascript">
+        $('#voteModal').on('show.bs.modal', function (event) {
+          var el = $(event.relatedTarget);
+          var hash = el.data('hash');
+          var proposal = el.data('proposal');
+          var modal = $(this);
+          console.log('hash:' + hash);
+          modal.find('.modal-title').text('Vote on "' + proposal + '"')
+          modal.find('.hash').html(hash);
+        })
+    </script>
 </body>
 </html>
